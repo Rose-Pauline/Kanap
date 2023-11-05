@@ -1,4 +1,5 @@
-Projet 5 Openclassroom: Kanap
+# Projet 5 Openclassroom: Kanap
+
 Objectif du projet
 
 Réalisation de la partie front-end Javascript du site e-commerce Kanap (marque de canapés)
